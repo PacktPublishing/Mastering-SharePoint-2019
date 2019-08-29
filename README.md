@@ -1,6 +1,6 @@
-# Mastering SharePoint 2019
+# Mastering SharePoint 2019 [Video]
 
-# Learning React [Video]
+
 This is the code repository for [Mastering SharePoint 2019 [Video]](https://www.packtpub.com/programming/mastering-sharepoint-2019-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 
