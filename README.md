@@ -50,6 +50,7 @@ For an optimal experience with hands-on labs and other practical activities, we 
 ●        Storage: 80 GB
 
 Software Requirements
+
 ●        Operating system: Windows 10
 
 ●        Browser: Google Chrome
