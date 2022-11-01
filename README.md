@@ -74,7 +74,3 @@ Software Requirements
 
 * [SharePoint for Developers: Building Hosted Add-Ins [Video]](https://www.packtpub.com/virtualization-and-cloud/sharepoint-developers-building-hosted-add-ins-video)
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781838648237">https://packt.link/free-ebook/9781838648237 </a> </p>
